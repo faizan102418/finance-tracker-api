@@ -1,0 +1,10 @@
+[project]
+name = "finance-tracker-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "django>=6.0.5",
+    "djangorestframework>=3.17.1",
+]
