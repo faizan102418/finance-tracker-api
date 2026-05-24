@@ -9,7 +9,7 @@ A personal finance REST API built with Python & Django REST Framework.
 - Token-based authentication
 
 ## Tech Stack
-- Python 3.x
+- Python 3.13
 - Django & Django REST Framework
 - SQLite (dev) / PostgreSQL (prod-ready)
 
